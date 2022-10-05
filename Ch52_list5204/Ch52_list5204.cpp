@@ -7,6 +7,13 @@
 
 /** @file list5204.cpp */
 /** Listing 52-4. Simple I/O Test of the rational Class Template */
+/**
+     Modifyed sample program from "Exploring C++20"
+        Auther: Ray Lischner 
+*/
+
+
+
 #import <iostream>
 #include <stdexcept>
 #include <numeric>
