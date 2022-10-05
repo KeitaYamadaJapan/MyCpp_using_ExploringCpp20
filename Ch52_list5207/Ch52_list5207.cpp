@@ -7,6 +7,12 @@
 
 /** @file list5207.cxx */
 /** Listing 52-7. Trying to Mix rational Base Types */
+/**
+     Modifyed sample program from "Exploring C++20"
+        Auther: Ray Lischner 
+*/
+
+
 
 #include <iostream>
 #include <stdexcept>
