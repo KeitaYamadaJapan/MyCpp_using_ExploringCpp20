@@ -15,3 +15,6 @@ C++20プログラミングの訓練と理解を深める為に、Exploring C++20
 のサンプルブログラムをテキストとしてプログラミングしました。
 オリジナルプログラムはコンパイラーはgccのようです。
 私はmac_miniのXcodeを使いました。xcodeのコンパイラーはClangで、export等は使えませんでした。
+
+ExploringC++20 is good text for me.
+Thank you Ray Lischner !!!
