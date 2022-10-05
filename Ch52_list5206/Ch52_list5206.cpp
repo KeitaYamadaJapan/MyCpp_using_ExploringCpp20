@@ -8,7 +8,10 @@
      Modifyed sample program from "Exploring C++20"
         Auther: Ray Lischner
 */
-
+/**
+     Modifyed sample program from "Exploring C++20"
+        Auther: Ray Lischner 
+*/
 
 #include <iostream>
 #include <numeric>
