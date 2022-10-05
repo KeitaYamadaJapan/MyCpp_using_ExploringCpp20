@@ -7,6 +7,11 @@
 
 /** @file list5205.cpp */
 /** Listing 52-5. Testing rational Comparison Operator */
+/**
+     Modifyed sample program from "Exploring C++20"
+        Auther: Ray Lischner 
+*/
+
 #import <iostream>
 #include <stdexcept>
 #include <numeric>
