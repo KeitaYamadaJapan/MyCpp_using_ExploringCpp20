@@ -11,10 +11,15 @@ But xcode compiler is clang.
 So it must be modifyed.
 I modifyed also some other part for my training and understanding.
 
+I renamed main.cpp.
+So, to excute program, please Copy and Past to your xcode.
+
 C++20プログラミングの訓練と理解を深める為に、Exploring C++20: 著者　Ray Lischner
 のサンプルブログラムをテキストとしてプログラミングしました。
 オリジナルプログラムはコンパイラーはgccのようです。
 私はmac_miniのXcodeを使いました。xcodeのコンパイラーはClangで、export等は使えませんでした。
+
+main.cppをリネームしました。動かす為には、あなたのxcodeにコピー・ペーストして下さい。
 
 ExploringC++20 is good text for me.
 Thank you Ray Lischner !!!
