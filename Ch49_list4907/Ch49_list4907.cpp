@@ -4,6 +4,12 @@
 //
 //  Created by 山田啓太 on 2022/09/25.
 //
+
+/**
+     Modifyed sample program from "Exploring C++20"
+        Auther: Ray Lischner 
+*/
+
 #include <iostream>
 #include <numeric>
 #include <string>
