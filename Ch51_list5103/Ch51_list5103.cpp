@@ -7,6 +7,12 @@
 
 /** @file list5103.cpp */
 /** Listing 51-3. Testing the absval Function Template */
+
+/**
+     Modifyed sample program from "Exploring C++20"
+        Auther: Ray Lischner 
+*/
+
 #import <iostream>
 #import <stdexcept>
 #include <numeric>
