@@ -5,6 +5,11 @@
 //  Created by 山田啓太 on 2022/10/06.
 //
 
+/**
+     Modifyed sample program from "Exploring C++20"
+        Auther: Ray Lischner 
+*/
+
 #include <iostream>
 #include <stdexcept>
 #include <numeric>
