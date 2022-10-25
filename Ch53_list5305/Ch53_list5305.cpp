@@ -5,6 +5,14 @@
 //  Created by 山田啓太 on 2022/10/09.
 //
 
+/**
+     For my text.
+     Sample program from "Exploring C++20"
+        Auther: Ray Lischner 
+     Not modifyed.
+*/
+
+
 #include <iostream>
 #include <string>
 #include <limits>
