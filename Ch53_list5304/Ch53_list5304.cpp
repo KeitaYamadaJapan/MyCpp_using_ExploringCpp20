@@ -5,6 +5,13 @@
 //  Created by 山田啓太 on 2022/10/09.
 //
 
+/**
+     For my text.
+     Sample program from "Exploring C++20"
+        Auther: Ray Lischner 
+     Not modifyed.
+*/
+
 #include <iostream>
 /** @file list5304.hh */
 /** Listing 53-4. The Primary std::less Class Template */
