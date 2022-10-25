@@ -5,6 +5,11 @@
 //  Created by 山田啓太 on 2022/10/08.
 //
 
+/**
+     Modifyed sample program from "Exploring C++20"
+        Auther: Ray Lischner 
+*/
+
 /** @file list5303.cpp */
 /** Listing 53-3. Specializing std::less to Compare person Objects by Name */
 
