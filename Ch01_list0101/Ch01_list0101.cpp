@@ -5,6 +5,13 @@
 //  Created by 山田啓太 on 2022/08/23.
 //
 
+/**
+     For my text.
+     Sample program from "Exploring C++20"
+        Auther: Ray Lischner 
+     Not modifyed.
+*/
+
 /** @file list0101.cpp */
 /** Listing 1-1. Your First C++ Program */
 /// This program examines features of the C++ library
