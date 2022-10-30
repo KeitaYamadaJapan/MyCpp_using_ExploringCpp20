@@ -5,6 +5,14 @@
 //  Created by 山田啓太 on 2022/08/23.
 //
 
+/**
+     For my text.
+     Sample program from "Exploring C++20"
+        Auther: Ray Lischner 
+     Not modifyed.
+*/
+
+
 /** @file list0203.cpp */
 /** Listing 2-3. Determining the Number of Bits in a bool */
 #import <iostream>
